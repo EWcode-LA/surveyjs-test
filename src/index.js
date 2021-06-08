@@ -18,8 +18,8 @@ class SurveyComponent extends React.Component {
       questions: [
         {
           type: "checkbox",
-          name: "car",
-          title: "What car are you driving?",
+          name: "fruit",
+          title: "Is this fruit available and affordable to you?",
           isRequired: true,
           hasSelectAll: true,
           hasNone: true,
